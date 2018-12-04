@@ -1,0 +1,7 @@
+ ---------------------------- HELP ----------------------------
+| - Pour ajouter un utilisateur: adduser <username> <password> |
+| - Pour supprimer un utilisateur: deleteuser <username>       |
+| - Pour blocker un utilisateur: blockuser <username>          |
+| - Pour afficher la liste des utilisateur: showusers          |
+| - Pour stopper le serveur: quit                              |
+ --------------------------------------------------------------

@@ -1,0 +1,11 @@
+           ************************** MENU **************************
+          | S'il vous plait choisissez un numero selon sa fonction:  |
+          | 1 . Uploader un fichier.                                 |
+          | 2 . Telecharger un fichier.                              |
+          | 3 . Supprimer un fichier.                                |
+          | 4 . Lister les fichiers.                                 |
+          | 5 . Partager un fichier.                                 |
+          | 6 . Ecrire un message a un autre client.                 |
+          | 7 . Afficher mes messages.                               |
+          | 8 . quitter le menu.                                     |
+           **********************************************************
